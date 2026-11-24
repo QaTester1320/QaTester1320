@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-There are 40+ Free Testing demo websites for manual and automation testers.
+There are 40+ Free Testing demo websites for manual and automation testers on https://github.com/QaTester1320?tab=repositories
+You can find them on the link above; each website is hosted on GitHub Pages in an individual repo
 
 You can also find them at https://www.qatestingservice.in/resources
 
