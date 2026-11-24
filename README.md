@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**QaTester1320/QaTester1320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Their are 40+ Free Testing demo website for manual and automation testers.
 
-Here are some ideas to get you started:
+You can also find in https://qatestingservice.in/resource too,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+we have sandbox for database testing, api testing, theme based website store, admin panels, specific element with all types, payment scenarios for testing, learning website, helpful websites and QA Arcade too.
+
+please find here : 
+
+
+
+
+
